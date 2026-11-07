@@ -1,12 +1,46 @@
+```text
+┌────────────────────────────────────────────────────────────────────────────────────────────────┐
+│  nfs@workstation:~ (profile.sh) · 53-WEEK CONTRIBUTION HEATMAP (593 CONTRIBUTIONS)             │
+├────────────────────────────────────────────────────────────────────────────────────────────────┤
+│      │ ········▓··▓····▒▒·······▒·▒···▒·█▓··░··░··········▒· │                                 │
+│  Mon │ ········▒··░···░·░··▒···░··░·····▓··░···▒·█··░▒····▒· │  Range: Nov 2025 - Nov 2026     │
+│      │ ···············░···░·············█··░····░█··░░▒···▒· │                                 │
+│  Wed │ ······░·▒··░··░····▒····█·····▓··▒·░···░·····▒░····▓· │  Total: 593 Contributions       │
+│      │ ·······░···········█··········▒·░···········▒··▒··░░▒ │                                 │
+│  Fri │ ·······░········░···········░····░···░·░······█·····▓ │  Less · ░ ▒ ▓ █ More            │
+│      │ ·······░░·█·░···▒··█····▒·▓···░····░░░·█······█░··█·░ │                                 │
+├────────────────────────────────────────┬───────────────────────────────────────────────────────┤
+│  [ DEVELOPER PORTRAIT: NIFRAS ]        │ [ DEV HUD & METRICS DASHBOARD ]                       │
+│              +@@@@@*=-+=:              │                                                       │
+│            =@@@@@@@%#+=++=             │ PROFILE     [██████████████████░░] 92% · 593 Commits  │
+│           -@@@@@@@@@%%+-:-:            │ FRONTEND    [█████████████████░░░] 88% · Flutter·TS   │
+│           @@@@@@@@@@@@*.:::            │ BACKEND     [████████████████░░░░] 82% · Firebase·PG  │
+│           @@@@@@@@%+-=:.::.            │ CORE STACK  [█████████████████░░░] 85% · Py·Dart·TS   │
+│           =@@@@@#=.   ==.:.            │ DEVOPS      [███████████████░░░░░] 76% · Docker·Linux │
+│            +*++==-:: :@@=.             │ OPEN SOURCE [█████████████████░░░] 85% · 66 Projects  │
+│            -%%#*+##= *@@#              │ ────────────────────────────────────────────────────  │
+│     =#@@@@%+#**= -=.*@@@#-     =*+     │ ● Identity     : Mohammed Nifras (@nfsprogramming)    │
+│     %@@@@@@@@%+::=*@@@@@@%*=:..=++     │ ● Roles        : Full-Stack Dev · AI Builder · Lens   │
+│    =@@@@@@@@@@@@@@@@@@--@@@@@@#+=:     │ ● Activity     : 593 contributions · 53 active weeks  │
+│    #@@@@@@@@@@@@@@@@@%-=@@@@@@@@@*     │ ● Repositories : 66 total repositories · 48 public    │
+│    @@@@@%@@@@@@@@@@@@%-*@@@@@@@@@#*    │ ● Languages    : TypeScript · Python · Dart · JS·SQL  │
+│   :@@@@@@@@@@@@%#%@@@@#%@@@@@@@@@@@    │ ● Frameworks   : Flutter · React · Vite · Next · Node │
+│   +@@@@@@@@+#+-+%%@**@%@@@@@@@@@@@@-   │ ● AI/ML Stack  : Dual-Engine Copilots·FastMCP·PyTorch │
+│   %@@@@#%*#*###*+*#*###**@@@@@@@@@@*   │ ● Cloud/DB     : Firebase · PostgreSQL · Supabase·CI  │
+│   @@@=--=-%@@@@%#-.-@%@@@@@@@@@@@@@%   │ ● Featured     : NEXERP-AI · TerraMesh-AI · F.R.I.D.A │
+│  :@@@--==+%%@%@%=:=*@@@@@@@@@@@@@@@@   │ ● Creative     : Nifras DarkRoom v2 (Photography)     │
+│  *@@-:==-*-@@@@@@@==%@@*#@@@@@@@@@@%.  │ ● Status       : Available for high-impact projects   │
+│  @@@--=+=#+#@@@@@%-:. *@@@@@@@@@@@@%:  │                                                       │
+│  @@%.--===*=+***- :*-  +#@@@@@@@@@@@=  │ nfs@workstation:~ (zsh) · terminal online             │
+└────────────────────────────────────────┴───────────────────────────────────────────────────────┘
+```
+
 <div align="center">
 
-<img src="assets/profile-terminal.png" alt="Developer profile: contribution heatmap, ASCII portrait and skills dashboard" width="100%" />
+# Mohammed Nifras
+### Developer · AI Systems Builder · Photographer
 
-# NFS Programming
-
-**Developer · Builder · Photographer**
-
-Building clean, useful software and capturing the world through a lens.
+Building clean, scalable software, intelligent agentic workflows, and capturing the world through a lens.
 
 [![GitHub Followers](https://img.shields.io/github/followers/nfsprogramming?style=for-the-badge&logo=github&color=2ECC71&labelColor=0D1117)](https://github.com/nfsprogramming)
 [![Public Repos](https://img.shields.io/badge/Public_Repos-48-2ECC71?style=for-the-badge&logo=git&labelColor=0D1117)](https://github.com/nfsprogramming?tab=repositories)
@@ -18,20 +52,20 @@ Building clean, useful software and capturing the world through a lens.
 
 ## ⚡ About Me
 
-- 💻 **Software Engineering**: Cross-platform mobile & desktop apps (Flutter/Dart), modern reactive web systems (React, Vite, Next.js, TypeScript), and distributed backend architectures.
-- 🤖 **AI & Agentic Systems**: Building intelligent copilots, real-time voice assistants (FastMCP, Gemini API), and local model fine-tuning (QLoRA, PyTorch).
-- 📷 **Visual Arts**: Street, minimalist, and fine-art photography—finding symmetry in raw light and architecture.
-- 🚀 **Currently Building**: Production-grade ERP platforms, health-tech assistants, and offline-first tooling.
-- 📫 **Reach Me**: Open for engineering collaborations, open-source work, and creative discussions.
+- 💻 **Cross-Platform & Web**: Developing fluid client applications with Flutter & Dart alongside modern reactive web ecosystems (React 19, Vite, Next.js, TypeScript).
+- 🤖 **AI & Agentic Systems**: Architecting Dual-Engine AI systems (offline deterministic clinical/business rules paired with live Google Gemini AI mode), FastMCP voice assistants, and self-hosted model fine-tuning with PyTorch & QLoRA.
+- 📷 **Photography & Creative Arts**: Street, architectural, and minimalist photography—exploring light, symmetry, and atmosphere (*Nifras DarkRoom*).
+- 🛠️ **Systems & Infrastructure**: Linux workstations, WSL2 environments, containerized dev environments (Docker), and mobile terminals (Termux/CIPHERX).
+- 📫 **Reach Me**: Open for engineering collaborations, open-source work, and high-impact software projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=2ECC71)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=2ECC71)
 ![Dart](https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=2ECC71)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=2ECC71)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=2ECC71)
 ![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=2ECC71)
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=2ECC71)
@@ -54,20 +88,20 @@ Building clean, useful software and capturing the world through a lens.
 
 ---
 
-## 🌟 Featured Open-Source Repositories
+## 🌟 Featured Open-Source Projects
 
-| Repository | Description | Primary Stack |
+| Repository | Description | Stack |
 | :--- | :--- | :--- |
 | [**NEXERP-AI**](https://github.com/nfsprogramming/NEXERP-AI) | Enterprise Cloud ERP system with Dual-Engine AI Copilot (offline deterministic & Google Gemini) | `TypeScript` `React` `Gemini AI` |
 | [**TerraMesh-AI**](https://github.com/nfsprogramming/TerraMesh-AI) | AI-powered mine subsidence monitoring & safety command center with IoT edge telemetry & 3D digital twin | `Python` `AI/IoT` `GIS` |
-| [**Care-Connect-AI**](https://github.com/nfsprogramming/Care-Connect-AI) | Responsive healthcare assistant & patient support web portal with offline clinical decision rules | `JavaScript` `React` `Healthcare AI` |
+| [**Care-Connect-AI**](https://github.com/nfsprogramming/Care-Connect-AI) | Responsive healthcare assistant & patient support web portal featuring offline clinical decision rules | `JavaScript` `React` `Healthcare AI` |
 | [**F.R.I.D.A.Y**](https://github.com/nfsprogramming/F.R.I.D.A.Y) | Real-time AI voice assistant and FastMCP server with LiveKit Agents, Gemini, and Three.js visualizer | `Python` `LiveKit` `FastMCP` |
 | [**Fine-Tune-LLM**](https://github.com/nfsprogramming/Fine-Tune-LLM) | Self-hosted AI coding agent platform: 4-bit QLoRA fine-tuning, RAG intelligence, and Docker sandbox | `Python` `PyTorch` `QLoRA` |
 | [**Untoldable-Lines-Portfolio**](https://github.com/nfsprogramming/Untoldable-Lines-Portfolio) | Evocative, minimalist poetry and creative works showcase web application | `React` `Vite` `Framer Motion` |
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Live GitHub Analytics
 
 <div align="center">
 
@@ -94,4 +128,4 @@ Building clean, useful software and capturing the world through a lens.
 
 ---
 
-<div align="center"><sub>Design: terminal / Neofetch-inspired profile card · Maintained by @nfsprogramming</sub></div>
+<div align="center"><sub>Terminal Neofetch Architecture · All-in-One Standalone README · Maintained by @nfsprogramming</sub></div>
