@@ -1,50 +1,15 @@
-```text
-┌────────────────────────────────────────────────────────────────────────────────────────────────┐
-│  nfs@workstation:~ (profile.sh) · 53-WEEK CONTRIBUTION HEATMAP (593 CONTRIBUTIONS)             │
-├────────────────────────────────────────────────────────────────────────────────────────────────┤
-│      │ ········▓··▓····▒▒·······▒·▒···▒·█▓··░··░··········▒· │                                 │
-│  Mon │ ········▒··░···░·░··▒···░··░·····▓··░···▒·█··░▒····▒· │  Range: Nov 2025 - Nov 2026     │
-│      │ ···············░···░·············█··░····░█··░░▒···▒· │                                 │
-│  Wed │ ······░·▒··░··░····▒····█·····▓··▒·░···░·····▒░····▓· │  Total: 593 Contributions       │
-│      │ ·······░···········█··········▒·░···········▒··▒··░░▒ │                                 │
-│  Fri │ ·······░········░···········░····░···░·░······█·····▓ │  Less · ░ ▒ ▓ █ More            │
-│      │ ·······░░·█·░···▒··█····▒·▓···░····░░░·█······█░··█·░ │                                 │
-├────────────────────────────────────────┬───────────────────────────────────────────────────────┤
-│  [ DEVELOPER PORTRAIT: NIFRAS ]        │ [ DEV HUD & METRICS DASHBOARD ]                       │
-│              +@@@@@*=-+=:              │                                                       │
-│            =@@@@@@@%#+=++=             │ PROFILE     [██████████████████░░] 92% · 593 Commits  │
-│           -@@@@@@@@@%%+-:-:            │ FRONTEND    [█████████████████░░░] 88% · Flutter·TS   │
-│           @@@@@@@@@@@@*.:::            │ BACKEND     [████████████████░░░░] 82% · Firebase·PG  │
-│           @@@@@@@@%+-=:.::.            │ CORE STACK  [█████████████████░░░] 85% · Py·Dart·TS   │
-│           =@@@@@#=.   ==.:.            │ DEVOPS      [███████████████░░░░░] 76% · Docker·Linux │
-│            +*++==-:: :@@=.             │ OPEN SOURCE [█████████████████░░░] 85% · 66 Projects  │
-│            -%%#*+##= *@@#              │ ────────────────────────────────────────────────────  │
-│     =#@@@@%+#**= -=.*@@@#-     =*+     │ ● Identity     : Mohammed Nifras (@nfsprogramming)    │
-│     %@@@@@@@@%+::=*@@@@@@%*=:..=++     │ ● Roles        : Full-Stack Dev · AI Builder · Lens   │
-│    =@@@@@@@@@@@@@@@@@@--@@@@@@#+=:     │ ● Activity     : 593 contributions · 53 active weeks  │
-│    #@@@@@@@@@@@@@@@@@%-=@@@@@@@@@*     │ ● Repositories : 66 total repositories · 48 public    │
-│    @@@@@%@@@@@@@@@@@@%-*@@@@@@@@@#*    │ ● Languages    : TypeScript · Python · Dart · JS·SQL  │
-│   :@@@@@@@@@@@@%#%@@@@#%@@@@@@@@@@@    │ ● Frameworks   : Flutter · React · Vite · Next · Node │
-│   +@@@@@@@@+#+-+%%@**@%@@@@@@@@@@@@-   │ ● AI/ML Stack  : Dual-Engine Copilots·FastMCP·PyTorch │
-│   %@@@@#%*#*###*+*#*###**@@@@@@@@@@*   │ ● Cloud/DB     : Firebase · PostgreSQL · Supabase·CI  │
-│   @@@=--=-%@@@@%#-.-@%@@@@@@@@@@@@@%   │ ● Featured     : NEXERP-AI · TerraMesh-AI · F.R.I.D.A │
-│  :@@@--==+%%@%@%=:=*@@@@@@@@@@@@@@@@   │ ● Creative     : Nifras DarkRoom v2 (Photography)     │
-│  *@@-:==-*-@@@@@@@==%@@*#@@@@@@@@@@%.  │ ● Status       : Available for high-impact projects   │
-│  @@@--=+=#+#@@@@@%-:. *@@@@@@@@@@@@%:  │                                                       │
-│  @@%.--===*=+***- :*-  +#@@@@@@@@@@@=  │ nfs@workstation:~ (zsh) · terminal online             │
-└────────────────────────────────────────┴───────────────────────────────────────────────────────┘
-```
-
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/nfsprogramming/nfsprogramming/main/assets/profile.png" alt="Mohammed Nifras - Contribution Heatmap, Developer Portrait & Skills Dashboard" width="100%" />
 
 # Mohammed Nifras
 ### Developer · AI Systems Builder · Photographer
 
-Building clean, scalable software, intelligent agentic workflows, and capturing the world through a lens.
-
-[![GitHub Followers](https://img.shields.io/github/followers/nfsprogramming?style=for-the-badge&logo=github&color=2ECC71&labelColor=0D1117)](https://github.com/nfsprogramming)
+[![GitHub](https://img.shields.io/badge/GitHub-nfsprogramming-2ECC71?style=for-the-badge&logo=github&labelColor=0D1117)](https://github.com/nfsprogramming)
 [![Public Repos](https://img.shields.io/badge/Public_Repos-48-2ECC71?style=for-the-badge&logo=git&labelColor=0D1117)](https://github.com/nfsprogramming?tab=repositories)
 [![Profile Views](https://komarev.com/ghpvc/?username=nfsprogramming&style=for-the-badge&color=2ecc71&label=VIEWS)](https://github.com/nfsprogramming)
+[![Email](https://img.shields.io/badge/Email-Contact-2ECC71?style=for-the-badge&logo=gmail&labelColor=0D1117)](mailto:mohammed.nifras.000555@gmail.com)
+[![Portfolio](https://img.shields.io/badge/DarkRoom_Portfolio-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=2ECC71)](https://github.com/nfsprogramming/Nifras-DarkRoom-v2)
 
 </div>
 
@@ -52,7 +17,7 @@ Building clean, scalable software, intelligent agentic workflows, and capturing 
 
 ## ⚡ About Me
 
-- 💻 **Cross-Platform & Web**: Developing fluid client applications with Flutter & Dart alongside modern reactive web ecosystems (React 19, Vite, Next.js, TypeScript).
+- 💻 **Cross-Platform Engineering**: Mobile & desktop applications with Flutter & Dart alongside modern reactive web ecosystems (React 19, Vite, Next.js, TypeScript).
 - 🤖 **AI & Agentic Systems**: Architecting Dual-Engine AI systems (offline deterministic clinical/business rules paired with live Google Gemini AI mode), FastMCP voice assistants, and self-hosted model fine-tuning with PyTorch & QLoRA.
 - 📷 **Photography & Creative Arts**: Street, architectural, and minimalist photography—exploring light, symmetry, and atmosphere (*Nifras DarkRoom*).
 - 🛠️ **Systems & Infrastructure**: Linux workstations, WSL2 environments, containerized dev environments (Docker), and mobile terminals (Termux/CIPHERX).
@@ -128,4 +93,4 @@ Building clean, scalable software, intelligent agentic workflows, and capturing 
 
 ---
 
-<div align="center"><sub>Terminal Neofetch Architecture · All-in-One Standalone README · Maintained by @nfsprogramming</sub></div>
+<div align="center"><sub>Terminal Neofetch Architecture · Maintained by @nfsprogramming</sub></div>
